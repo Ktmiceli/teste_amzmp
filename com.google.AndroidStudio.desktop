@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Android Studio
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=android-studio com.google.AndroidStudio
+Icon=com.google.AndroidStudio
+Comment=Development environment for the Android platform
+Terminal=false
+Type=Application
+Categories=Development;IDE;Java;
+StartupWMClass=jetbrains-studio
+X-Flatpak=com.google.AndroidStudio
